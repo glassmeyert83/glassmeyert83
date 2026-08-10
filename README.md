@@ -4,7 +4,8 @@
 
 # Hi there, I'm [Tim]! 👋
 
-!![Header](<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/744fcee8-cc72-4f69-9b01-2de3576a0306" />)
+!![Header](src="https://github.com/user-attachments/assets/22469363-4d3f-498a-8d42-30c3f8ffc2e0" />)
+
 
 ## About Me 🚀
 
