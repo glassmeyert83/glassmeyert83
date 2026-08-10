@@ -4,8 +4,6 @@
 
 # Hi there, I'm [Tim]! 👋
 
-!![Header](<src="https://github.com/user-attachments/assets/4bd928ef-a7ea-4b65-92e2-4711a1559590" />)
-
 
 ## About Me 🚀
 
