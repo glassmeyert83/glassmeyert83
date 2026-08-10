@@ -4,8 +4,7 @@
 
 # Hi there, I'm [Tim]! 👋
 
-!![Header](<img width="896" height="896" alt="grim-repo" src="https://github.com/user-attachments/assets/4bd928ef-a7ea-4b65-92e2-4711a1559590" />
-)
+!![Header](<src="https://github.com/user-attachments/assets/4bd928ef-a7ea-4b65-92e2-4711a1559590" />)
 
 
 ## About Me 🚀
