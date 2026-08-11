@@ -4,6 +4,7 @@
 
 # Hi there, I'm [Tim]! 👋
 
+![Header](./github-header-banner.png)
 
 ## About Me 🚀
 
